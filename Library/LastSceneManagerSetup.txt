@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/coches carrera.unity
+  isLoaded: 1
+  isActive: 1
